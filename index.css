@@ -1,0 +1,25 @@
+body{
+    background-color: #f6fcff;
+    padding: 15px;
+    text-align: justify;
+}
+
+h1, h2{
+    color: #9a83ed;
+}
+
+h2{
+    font-size: 23px;
+}
+
+#logo{
+    width: 97%;
+}
+
+p{
+    font-size: 20px;
+}
+
+#img{
+    width: 97%;
+}
